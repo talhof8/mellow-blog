@@ -85,7 +85,6 @@ section.recent-posts {
 
 .section-title h2 {
     border-bottom: 1px solid rgba(0, 0, 0, .125);
-    margin-bottom: 25px;
     font-weight: 700;
     font-size: 1.4rem;
     margin-bottom: 27px;
@@ -131,6 +130,10 @@ section.recent-posts {
     height: 290px;
     flex: 0 0 auto;
     height: 100%;
+}
+
+.card-group > .card:only-child {
+    border-radius: 20px;
 }
 
 .maxthumb {
