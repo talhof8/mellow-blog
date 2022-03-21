@@ -1,10 +1,10 @@
 # Site
 name: "Mellow Blog"
 title: "Mellow Blog"
-description: "Mellow's official blog."
+description: "Bringing Supplier-Buyer interaction to the 21st century."
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
-baseurl: /mediumish-theme-jekyll
+baseurl: /mellow-blog
 google_analytics: 'G-P07PTXKQC9'
 include: ["_pages"]
 permalink: /:title/
