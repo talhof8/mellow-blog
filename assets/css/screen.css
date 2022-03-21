@@ -9,7 +9,7 @@ License: https://www.wowthemes.net/freebies-license/
 }
 
 body {
-    font-family: 'Lato', arial, serif;
+    font-family: 'Lato', arial, serif !important;
     background-color: #f2f2f2;
     position: absolute;
     top: 0;
