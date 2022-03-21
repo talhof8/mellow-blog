@@ -18,7 +18,7 @@ weekly basis, about how tedious it is to keep track of their inventory, about ca
 On the other end, suppliers are struggling to compete with Big Box suppliers. 
 They struggle to find new clients and are constantly being paid late (sometimes not at all!).
 Additionally, they often have to deal with tire-kickers. Suppliers also told us about having to offer Net Terms in order 
-to be competitive, about communication gaps with their buyers, having to manage trucking & freight, and so on...
+to be competitive, about communication gaps with their buyers, struggling to manage trucking & freight, and more...
 
 
 There's a lot of frustration out there - on both sides - and barely enough efforts to provide solutions. 
