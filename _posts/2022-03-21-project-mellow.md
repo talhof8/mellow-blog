@@ -15,9 +15,10 @@ Businesses that we've talked with kept complaining about how hard it is to find 
 weekly basis, about how tedious it is to keep track of their inventory, about cash flow.
 
 
-On the other hand, suppliers that we've talked with kept complaining about how frustrating it is to compete with Big 
-Box suppliers, about how hard it is to find new clients and grow, about being paid late, on dealing with tire-kickers, 
-struggling to offer Net Terms, having communication gaps with their buyers, managing trucking & freight, and so on...
+On the other hand, suppliers are struggling as well. They shared with us how frustrating it is for them to compete 
+with Big Box suppliers, about how hard it is to find new clients and grow, about being paid late, about having to deal 
+with tire-kickers, struggling to offer Net Terms, having communication gaps with their buyers,
+managing trucking & freight, and so on...
 
 
 There's a lot of frustration out there - on both sides - and barely enough efforts to provide solutions. 
