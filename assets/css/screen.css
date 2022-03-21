@@ -310,7 +310,8 @@ span.post-read-more a:hover {
 }
 
 .mediumnavigation .navbar-brand img {
-    max-height: 30px;
+    width: 120px;
+    height: 31.85px;
     margin-right: 5px;
 }
 
