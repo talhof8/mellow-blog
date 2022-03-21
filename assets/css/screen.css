@@ -18,17 +18,21 @@ body {
     color: #333;
 }
 
+.navbar {
+    padding: 0 !important;
+}
+
 .mainheading {
     padding: 1rem 0rem;
 }
 
 a {
-    color: #00ab6b;
+    color: #ff5f5f;
     transition: all 0.2s;
 }
 
 a:hover {
-    color: #038252;
+    color: #ee1919;
     text-decoration: none;
 }
 
@@ -49,9 +53,6 @@ pre {
 }
 
 .mediumnavigation {
-    background: rgba(255, 255, 255, .97);
-    box-shadow: 0 2px 2px -2px rgba(0, 0, 0, .15);
-    transition: top 0.2s ease-in-out;
 }
 
 .main-content {
@@ -104,13 +105,6 @@ section.recent-posts {
         -webkit-column-count: 2;
         -moz-column-count: 2;
         column-count: 2;
-    }
-}
-
-@media (min-width:992px) {
-    .navbar-expand-lg .navbar-nav .nav-link {
-        padding-right: 0.8rem;
-        padding-left: 0.8rem;
     }
 }
 
@@ -345,7 +339,7 @@ span.post-read-more a:hover {
 }
 
 blockquote {
-    border-left: 4px solid #00ab6b;
+    border-left: 4px solid #ff5f5f;
     padding: 0 20px;
     font-style: italic;
     color: rgba(0, 0, 0, .5);
