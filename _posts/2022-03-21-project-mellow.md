@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Introducing Mellow: Putting your inventory stocking up for auction"
+title: "Introducing Mellow: Put your inventory stocking up for auction"
 image: assets/images/posts/2022-03-21-introducing-mellow-cover.jpg
 description: "Starting a new business is definitely exciting. It's a new beginning, a new chance. It's also pretty scary, especially if you bet your savings on it. Hiring employees, finding good suppliers, dealing with stupid bureaucracies, launching, marketing... It's a tough row to hoe."
 hidden: false
