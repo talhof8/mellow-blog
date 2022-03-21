@@ -40,10 +40,10 @@ and help both sides establish healthy & mutually beneficial relationship.
 
 ![A screenshot of a buyer's feed](/assets/images/posts/2022-03-21-introducing-mellow-buyers-feed.png)
 
-Our ultimate goal is to become the go-to place for businesses and suppliers, and providing full-stack solutions for 
+Our ultimate goal is to become the go-to place for businesses and suppliers, and provide full-stack solutions for 
 everything procurement-related. We're also working on supporting payments & providing Net Terms.
 
 
-If this sounds interesting, we encourage you to [join our wait-list](https://www.playmellow.com/) and help us shape 
+If you interested in trying our beta, we encourage you to [join our wait-list](https://www.playmellow.com/) and help us shape 
 the future of this product. Feel free to ping us at [hello@playmellow.com](mailto:hello@playmellow.com) for any question
 or suggestion.
