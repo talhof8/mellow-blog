@@ -19,9 +19,9 @@ body {
 }
 
 .navbar {
-    padding: 0 !important;
-    margin-top: 20px;
+    padding: 20px 0 !important;
     top: 0 !important;
+    background: #f2f2f2;
 }
 
 .mainheading {
@@ -286,10 +286,6 @@ span.post-read-more a:hover {
 .mediumnavigation .form-inline .btn:active {
     background: transparent;
     color: green;
-}
-
-.mediumnavigation .navbar-nav {
-    background-color: #f2f2f2;
 }
 
 .mediumnavigation .navbar-brand {
