@@ -136,11 +136,18 @@ section.recent-posts {
 .maxthumb {
     max-height: 300px;
     overflow: hidden;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
 }
 
 .listfeaturedtag .card,
 .card-footer {
     border: 0;
+}
+
+.card-footer {
+    border-bottom-left-radius: 20px !important;
+    border-bottom-right-radius: 20px !important;;
 }
 
 .listfeaturedtag .thumbnail {

@@ -3,7 +3,6 @@ layout: post
 title: "Project Mellow: Bringing Business-to-Supplier interaction to the 21st century"
 image: assets/images/posts/2022-03-21-project-mellow-cover.jpg
 description: "Starting a new business is definitely exciting. It's a new beginning, a new chance. It's also pretty scary, especially if you bet your savings on it. Hiring employees, finding good suppliers, dealing with stupid bureaucracies, launching, marketing... It's a tough row to hoe."
-featured: true
 hidden: false
 ---
 
