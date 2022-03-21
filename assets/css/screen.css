@@ -28,7 +28,7 @@ body {
 }
 
 a {
-    color: #ff5f5f;
+    color: #ff3f3f;
     transition: all 0.2s;
 }
 
@@ -348,7 +348,7 @@ span.post-read-more a:hover {
 }
 
 blockquote {
-    border-left: 4px solid #ff5f5f;
+    border-left: 4px solid #ff3f3f;
     padding: 0 20px;
     font-style: italic;
     color: rgba(0, 0, 0, .5);
@@ -356,6 +356,7 @@ blockquote {
 
 .article-post p,
 .article-post blockquote {
+    font-size: 22px;
     margin: 0 0 1.5rem 0;
 }
 
