@@ -309,7 +309,9 @@ span.post-read-more a:hover {
     margin-right: 5px;
 }
 
-.mainheading h1.sitetitle {}
+.mainheading h1.sitetitle {
+    font-family: 'Lato', arial, serif !important;
+}
 
 .mainheading h1.posttitle {
     font-weight: 700;
