@@ -35,14 +35,14 @@ in a closed bidding (i.e, suppliers cannot see others' bids).
 When a bid goes through and the shipment is delivered, suppliers are able to offer buyers with gift cards and custom 
 prices for the sake of building a long and lasting relationship.
 
-![A screenshot of a supplier's feed](assets/images/posts/2022-03-21-project-mellow-suppliers-feed.png)
+![A screenshot of a supplier's feed](/assets/images/posts/2022-03-21-project-mellow-suppliers-feed.png)
 
 Obviously auctions are not a new concept in the world of procurement. 
 Mellow is merely taking them online, making it easier for suppliers to find more prospects and for small businesses to
 avoid compromising on bad deals. We aspire to provide a level playing field for both suppliers and buyers, 
 and help both sides establish healthy & mutually beneficial relationship.
 
-![A screenshot of a buyer's feed](assets/images/posts/2022-03-21-project-mellow-buyers-feed.png)
+![A screenshot of a buyer's feed](/assets/images/posts/2022-03-21-project-mellow-buyers-feed.png)
 
 Our ultimate goal is to become the go-to place for businesses and suppliers, and providing full-stack solutions for 
 everything procurement-related. We're also working on supporting payments & providing Net Terms.
