@@ -5,7 +5,7 @@ description: "Bringing Supplier-Buyer interaction to the 21st century."
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 homeurl: https://www.playmellow.com/
-baseurl: /mellow-blog
+baseurl: /
 include: ["_pages"]
 permalink: /:title/
 
