@@ -44,6 +44,6 @@ Our ultimate goal is to become the go-to place for businesses and suppliers, and
 everything procurement-related. We're also working on supporting payments & providing Net Terms.
 
 
-If you interested in trying our beta, we encourage you to [join our wait-list](https://www.playmellow.com/) and help us shape 
+If you're interested in trying out our beta, we encourage you to [join our wait-list](https://www.playmellow.com/) and help us shape 
 the future of this product. Feel free to ping us at [hello@playmellow.com](mailto:hello@playmellow.com) for any question
 or suggestion.
