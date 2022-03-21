@@ -1,4 +1,4 @@
-This what powers [Mellow's official blog](https://blog.playmellow.com)
+This is what powers [Mellow's official blog](https://blog.playmellow.com)
 
 ### Copyright
 
