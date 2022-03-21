@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Project Mellow: Bringing Business-to-Supplier interaction to the 21st century"
-author: mel
 categories: []
 tags: [bidding, auction, mellow]
 image: assets/images/posts/2022-03-21-project-mellow-cover.jpg

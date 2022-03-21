@@ -7,18 +7,6 @@ baseurl: /
 include: ["_pages"]
 permalink: /:title/
 
-# Authors
-authors:
-  sal:
-    name: mel
-    display_name: Mel
-    gravatar: e56154546cf4be74e393c62d1ae9f9d4
-    email: hello@playmellow.com
-    web: https://www.playmellow.com
-    twitter: https://twitter.com/playmellowcom
-    description: "Author of the official Mellow blog."
-
-
 # Plugins
 plugins:
   - jekyll-paginate
