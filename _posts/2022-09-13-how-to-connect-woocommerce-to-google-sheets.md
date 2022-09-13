@@ -5,13 +5,12 @@ description: "This guide will show you how to connect your WooCommerce store to 
 hidden: false
 ---
 
+**This is an easy-to-setup, channel-agnostic alternative to tools like WP All Import, Zapier, Coupler, and Automate.io.**
+
 This guide will show you how to connect your WooCommerce store to Google sheets using Mellow.
 Mellow is a Google Sheets add-on, which means that you don't need to install any plugin on your WooCommerce store!
 
-It connects to your spreadsheet on one end, and to all of your sales channels on the other end - and keeps them in sync. Every inventory update is automatically being propagated to all other sales channels.
-
-**This is an easy-to-setup, channel-agnostic alternative to tools like WP All Import, Zapier, Coupler, and Automate.io.**
-
+It connects to your spreadsheet on one end, and to all of your sales channels on the other end - and keeps everything in sync. Every inventory update is automatically being propagated to all other sales channels.
 
 #### What you need
 1. Google Sheets
@@ -21,10 +20,22 @@ It connects to your spreadsheet on one end, and to all of your sales channels on
 1. Inventory stock changes
 2. Sales orders (optional)
 
+## Table of contents
+1. [Step 1 - Install the Add-on](#step-1---install-the-add-on)
+2. [Step 2 - Setup sheet settings](#step-2---setup-sheet-settings)
+3. [Step 3 - Sign Up](#step-3---sign-up)
+4. [Step 4 - Connect your store!](#step-4---connect-your-store)
+5. [You're all set](#youre-all-set)
+6. [Bonus: Syncing sales orders](#bonus-syncing-sales-orders)
+7. [Next up: Product Listings, More Integrations](#next-up-product-listings-more-integrations)
+8. [Talk to us](#talk-to-us)
+
+
 ## Step 1 - Install the Add-on
 Install it here: [https://workspace.google.com/marketplace/app/mellow_sync_your_ecommerce_store/372066191163](https://workspace.google.com/marketplace/app/mellow_sync_your_ecommerce_store/372066191163)
 
-If you are not able to see
+If the add-on does not show up on your extensions menu, try to hard refresh your page (hold down CTRL + click Refresh on Chrome).
+
 <p align="center">
   <img src="/assets/images/posts/2022-09-13-install-add-on.png" />
 </p>
@@ -33,9 +44,9 @@ If you are not able to see
 Open your spreadsheet, then click 'Extensions' -> 'Mellow - Sync your eCommerce store'.
 Note that it might take a couple of seconds for the add-on to appear on the menu.
 
-This step requires you to specify where your inventory data can be found. That is, what's the name of your inventory sheet, and the columns for Item Name, SKU (optional), and Stock on Hold.
+This step requires you to specify where your inventory data can be found. That is, what's the name of your inventory sheet, and the following columns: Item Name, SKU (optional), and Stock on Hold.
 
-Mellow attempts to automatically identify those columns for you.
+Mellow will automatically attempt to identify those columns for you.
 
 <p align="center">
   <img src="/assets/images/posts/2022-09-13-setup-stage.png" />
@@ -67,7 +78,7 @@ In order for Mellow to be able to read and write data on your store, we need to 
 After clicking 'Approve', you'll be redirected to Mellow's website. You can go ahead and close it and get back to your spreadsheet.
 
 ## You're all set
-Now, you that WooCommerce is connected, you can fetch inventory changes from your store to you sheet at will.
+Now, that WooCommerce is connected, you can fetch inventory changes from your store to your sheet, by clicking 'Fetch changes'.
 Fetching changes will automatically update your sheet's Stock Quantity column with the updated quantities.
 
 It is recommended that all manual stock adjustments (e.g: for recording incoming shipments) will be performed by clicking the 'Adjust stock' button. This is the only safe way to increase/decrease stock manually, because it will not override existing stock count for an item, but simply adjust it by the specified offset.
@@ -79,10 +90,10 @@ For instance, say you have item ABC (stock qty: 10). A sales order of 5 units wa
 To avoid encountering that issue, simply adjust the stock by -1 via the dedicated 'Adjust stock' button, and our system will make sure to adjust it properly without losing any other data.
 
 ## Bonus: Syncing sales orders
-Optionally, you are also able to fetch sales orders to your spreadsheet!
+Optionally, Mellow also enables you to pull sales orders to your spreadsheet!
 This requires you to have a dedicated sales orders sheet with the following columns: Item name, SKU (optional), Order ID, Order status, Order quantity. We have a template already ready for you [here](https://docs.google.com/spreadsheets/d/1m9cFScc7jTXyRcISCiegO_LN0cQixF3oPz7lNoEsygs/edit).
 
-You can use your own custom order statuses, but will have to map them to the ones Mellow is able to understand.
+You can use your own custom order statuses, but you'll have to map them to statuses Mellow is able to understand. For instance, status 'In progress' would be mapped to Mellow's 'Processing' status.
 In order to configure sales orders connection settings, click 'Settings' on the top right side of the add-on. Then, this window will appear:
 
 <p align="center">
@@ -108,7 +119,7 @@ It is also possible to create sales orders directly from your sheet and distribu
 
 Simply go to 'Settings' -> check the checkbox near 'WooCommerce' under section 'Distribute manually-created orders to sales channels'. You can optionally specify a Customer ID column which contains the WooCommerce Customer IDs for each order, thus associating those orders with a specific customer.
 
-Then, simply add a row for each order item. Order ID should be a uniquely identified string and is used to associated items with orders. Hence, in order to have multiple items under the same order, simply assign them with the same Order ID.
+Then, simply add a row for each order item. Order ID should be a uniquely identified string and is used to associate items with orders. Hence, in order to have multiple items under the same order, simply assign them with the same Order ID.
 
 Note that Mellow does not (yet) support merged cells, so make sure to unmerge any merged cells.
 
@@ -121,6 +132,6 @@ Next up in terms of what we have planned for the near future are two main things
 
 ## Talk to us
 Your feedback means the world to us. We want to keep improving our product, and would love to hear what you have to say.
-Talk to us at [tal@playmellow.com](mailto:tal@playmellow.com) anytime :)
+Talk to me directly via [tal@playmellow.com](mailto:tal@playmellow.com) anytime :)
 
 If you find Mellow useful, it is highly appreciated if you rate it on the [Google Workspace Marketplace](https://workspace.google.com/marketplace/app/mellow_sync_your_ecommerce_store/372066191163).
