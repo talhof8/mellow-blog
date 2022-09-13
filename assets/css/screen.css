@@ -21,6 +21,7 @@ body {
 .navbar {
     padding: 20px 0 !important;
     top: 0 !important;
+    background: #fff;
 }
 
 @media only screen and (max-width: 480px) {
