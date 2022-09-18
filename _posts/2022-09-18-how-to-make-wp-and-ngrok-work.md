@@ -5,7 +5,7 @@ description: "A quick 3-step tutorial on how to integrate ngrok with Wordpress a
 hidden: false
 ---
 
-Ngrok is a super useful CLI tool which enables you to expose your localhost HTTP servers to an internet-facing HTTPs endpoint, for free!
+Ngrok is a super useful CLI tool which enables you to expose your localhost HTTP servers to an internet-facing HTTPS endpoint, for free!
 You can get it here: [https://ngrok.com/](https://ngrok.com/).
 
 I've been struggling to find a good, short tutorial on how to make it work properly with my local WooCommerce store, so hopefully you will find this helpful:
