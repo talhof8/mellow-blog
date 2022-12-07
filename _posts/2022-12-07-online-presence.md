@@ -23,8 +23,9 @@ mile to help them.
 
 But setting up and managing an online presence can be time-consuming and overwhelming, 
 especially for small business owners who are already stretched thin. That's where Mellow 
-comes in. Mellow is a startup that lets you connect and automatically sync your Google Sheets 
-with all of your sales channels. This means you can manage your online sales without having 
+comes in. [Mellow](https://www.playmellow.com) is a startup that lets you connect 
+and automatically sync your Google Sheets with all of your sales channels. 
+This means you can manage your online sales without having 
 to spend hours on data entry and updates. Mellow makes it easy to track your inventory, 
 manage your orders, and see your sales data in one place. Plus, Mellow is easy to use, 
 even if you don't have a lot of experience with technology.
@@ -41,10 +42,10 @@ customers all over the world, expanding your potential customer base and increas
 your sales.
 
 In conclusion, establishing an online presence can help your business reach more 
-customers, stay open 24/7, improve your customer service, and reach a global audience. A
-nd with tools like Mellow, it's easier than ever to manage your online sales. Give it 
+customers, stay open 24/7, improve your customer service, and reach a global audience. 
+And with tools like Mellow, it's easier than ever to manage your online sales. Give it 
 a try and see the benefits for yourself! Mellow is a simple, efficient way to take 
 your offline business online and start growing your customer base. Whether you're a 
 small business owner, a freelancer, or a creative professional, Mellow can help you 
-succeed in the online world. Don't miss out on this opportunity – sign up for Mellow 
+succeed in the online world. Don't miss out on this opportunity – sign up for [Mellow](https://www.playmellow.com) 
 today and start growing your business!
