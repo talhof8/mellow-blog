@@ -32,4 +32,4 @@ operations and data, which can help you make more informed decisions and drive g
 
 If you're looking for a mini-ERP solution that's easy to use and can seamlessly integrate with your current processes, 
 consider giving Mellow a try. 
-To learn more about Mellow and start using it for free: https://www.playmellow.com.
+To learn more about Mellow and start using it for free: [https://www.playmellow.com](https://www.playmellow.com).
